@@ -11,6 +11,7 @@
   *  notebook.md
 * Actively raise issue for course content on Piazza
 * Attented zoom meeting on 09/04/2018 at 6:30 PM CT
+* 523 futuresystem account created
 
 # Week Fri 09/07/18 - 09/13/18
 
