@@ -1,1 +1,20 @@
+# Week Fri 08/24/18 - 08/30/18
+* wrote formal bio in piazza
+* submitted plagiarism certificate
+
 # Week Fri 08/31/18 - 09/06/18
+
+* Completed github setup
+* Attended Introduction to Big data lecture
+* created two files
+  *  readme.yml
+  *  notebook.md
+* Actively raise issue for course content on Piazza
+* Attented zoom meeting on 09/04/2018 at 6:30 PM CT
+
+# Week Fri 09/07/18 - 09/13/18
+
+* Yet to start
+
+
+
