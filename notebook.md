@@ -15,7 +15,8 @@
 
 # Week Fri 09/07/18 - 09/13/18
 
-* Yet to start
+* Completed reading Physics chapter  
+* Completed ubuntu virtual box setup
 
 
 
