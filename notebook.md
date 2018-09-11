@@ -19,7 +19,7 @@
 * Completed ubuntu virtual box setup
 
 # Week Fri 09/14/18 - 09/20/18
-* Not yee started.
+* Not yet started.
 
 
 
