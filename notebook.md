@@ -17,6 +17,7 @@
 
 * Completed reading Physics chapter  
 * Completed ubuntu virtual box setup
+* Started 	Phoenix Technology Summaries
 
 # Week Fri 09/14/18 - 09/20/18
 * Not yet started.
