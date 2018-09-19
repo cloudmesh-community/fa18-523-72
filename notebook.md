@@ -20,6 +20,10 @@
 * Started 	Phoenix Technology Summaries
 
 # Week Fri 09/14/18 - 09/20/18
+* Started Radar reading.
+* Completed 	Phoenix Technology Summaries
+
+# Week Fri 09/21/18 - 09/27/18
 * Not yet started.
 
 
