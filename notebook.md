@@ -24,7 +24,12 @@
 * Completed 	Phoenix Technology Summaries
 
 # Week Fri 09/21/18 - 09/27/18
+* Attented zoom meeting on 09/20/2018 at 6:30 PM CT
+* Sharted Shark Technology Summary.
+
+# Week Fri 09/28/18 - 10/04/18
 * Not yet started.
+
 
 
 
