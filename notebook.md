@@ -28,6 +28,10 @@
 * Sharted Shark Technology Summary.
 
 # Week Fri 09/28/18 - 10/04/18
+* Created pull request for Phoenix, Shark, Appfog, OPeNDAP Technology Summary.
+* Created SSH key and added in FutureSystems FutureSystems Resources as per epub instuctions.
+
+# Week Fri 10/05/18 - 10/11/18
 * Not yet started.
 
 
