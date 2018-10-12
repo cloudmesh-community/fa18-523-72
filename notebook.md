@@ -32,7 +32,12 @@
 * Created SSH key and added in FutureSystems FutureSystems Resources as per epub instuctions.
 
 # Week Fri 10/05/18 - 10/11/18
+* Completed two page paper.
+* Fixed bibtex in technology summary. 
+
+# Week Fri 10/12/18 - 10/19/18
 * Not yet started.
+
 
 
 
