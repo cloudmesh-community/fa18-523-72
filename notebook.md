@@ -34,9 +34,11 @@
 # Week Fri 10/05/18 - 10/11/18
 * Completed two page paper.
 * Fixed bibtex in technology summary. 
+* Attented zoom meeting on 10/10/2018 at 6:30 PM CT
 
 # Week Fri 10/12/18 - 10/19/18
-* Not yet started.
+* Completed Summary paper topic.
+* Completed project proposal content.
 
 
 
