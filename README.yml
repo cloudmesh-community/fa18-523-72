@@ -4,6 +4,7 @@ owner:
   lastname: Bhoyar
   hid: fa18-523-72
   community: i523
+  semester: fa18
 
 technologies:
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/phoenix.md
