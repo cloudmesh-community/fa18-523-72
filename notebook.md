@@ -36,9 +36,18 @@
 * Fixed bibtex in technology summary. 
 * Attented zoom meeting on 10/10/2018 at 6:30 PM CT
 
-# Week Fri 10/12/18 - 10/19/18
+# Week Fri 10/12/18 - 10/18/18
 * Completed Summary paper topic.
 * Completed project proposal content.
+
+# Week Fri 10/19/18 - 10/25/18
+* Updated Content and Bib text for technology summary.
+* Attended zoom meeting on 10/23/2018
+
+
+# Week Fri 10/26/18 - 11/01/18
+* Updated the Content and Bib text for technology summary.
+
 
 
 
