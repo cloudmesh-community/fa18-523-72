@@ -47,6 +47,7 @@
 
 # Week Fri 10/26/18 - 11/01/18
 * Updated the Content and Bib text for technology summary.
+* Added semester information in README.yml file.
 
 
 
