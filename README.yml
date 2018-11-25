@@ -15,13 +15,13 @@ technologies:
 
 paper:
 - keyword: MongoDB
-    title: "MongoDB in Python"
-    url: https://github.com/cloudmesh-community/fa18-523-60/blob/master/paper/paper.md
-    group: fa18-523-60 fa18-523-64 fa18-523-72
+  title: "MongoDB in Python"
+  url: https://github.com/cloudmesh-community/fa18-523-60/blob/master/paper/paper.md
+  group: fa18-523-60 fa18-523-64 fa18-523-72
 project:
 - keyword: MongoDB
-    title: "Kickstarter Projects Analysis"
-    url: https://github.com/cloudmesh-community/fa18-523-60/blob/master/project-report/report.md
-    group: fa18-523-60 fa18-523-64 fa18-523-72
-    code: TBD
+  title: "Kickstarter Projects Analysis"
+  url: https://github.com/cloudmesh-community/fa18-523-60/blob/master/project-report/report.md
+  group: fa18-523-60 fa18-523-64 fa18-523-72
+  code: TBD
 
