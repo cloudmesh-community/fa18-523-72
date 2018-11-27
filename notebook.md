@@ -49,6 +49,23 @@
 * Updated the Content and Bib text for technology summary.
 * Added semester information in README.yml file.
 
+# Week Fri 11/2/18 - 11/08/18
+* Updated the Content and Bib text for technology summary.
+* Added semester information in README.yml file.
+
+# Week Fri 11/2/18 - 11/08/18
+* Mongo Engine work for paper.
+
+# Week Fri 11/9/18 - 11/15/18
+* Project data analysis.
+
+# Week Fri 11/16/18 - 11/23/18
+* Python code analysis.
+* Project exploratory analysis.
+
+
+
+
 
 
 
